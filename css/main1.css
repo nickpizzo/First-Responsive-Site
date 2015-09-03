@@ -1,0 +1,36 @@
+.picstyle {
+  border-width: thin;
+  border-style: solid;
+  border-color: rgb(208, 208, 208);
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 5px;
+}
+
+.creator {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 25px;
+  color: rgb(84, 84, 84);
+  font-weight: bold;
+}
+
+.num {
+  float:left;
+}
+
+.catname {
+  float:right;
+}
+
+.main {
+  height: 1250px;
+}
+
+.navbar-fixed-bottom {
+  height: 40px;
+}
+
+.navbar-text ul li a {
+  padding-top: 0;
+}
